@@ -12,7 +12,7 @@
     "http": "https://github.com/aaadonai/couchbase-lite-ios.git"
 , "tag":"1.1.0"
   },
-  "preserve_paths": "LICENSE.txt",
+  "preserve_paths": "LICENSE",
   "platforms": {
     "ios": "7.0"
   },
